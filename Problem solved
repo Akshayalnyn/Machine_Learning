@@ -1,0 +1,15 @@
+1.  Program to check whether the following functions are convex or concave. 
+Prove that the negation of convex and concave functions are concave and convex functions respectively.
+Check the concavity / convexity for the addition of convex functions. Also check the following properties through plot.
+        a. sum of two convex functions are convex.
+	b. minimum of two convex functions
+
+logx
+xlogx
+exp(x)
+x^r
+1/x^r
+|x|
+||x||
+
+2. Finding all statistical measures (mean, standard deviation, covariance, correlation, skewness, kurtosis) of MBA admissions dataset. 
